@@ -8,7 +8,7 @@
 -Poise damage of Weapons and Spells *5<br>
 -All spells only take one memory slot<br>
 -Lock range *4<br>
--Buff last until die or rest at site of grace or teleport<br>
+-Buff last until die or rest at site of grace or reload<br>
 -Staves and seals could cast both spells and incantations<br>
 -Slight FP regen built in<br>
 -Casting times have been cut in half<br>
