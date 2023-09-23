@@ -24,5 +24,5 @@
 <br>
 
 ### c0000.anibnd.dcx
--Spell cast animations speed up by 25%
+-Spell cast animations speed up by 25%<br>
 -Change basic roll into Bloodhound's Step
