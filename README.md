@@ -1,6 +1,9 @@
 # Elden Ring Mod
+
 ##Elden Ring mod for personal use
+
 ##Feature
+
 -Weapons and Spells poise damage *5
 -All spells only take one memory slot
 -Lock range *2
