@@ -5,7 +5,7 @@
 ## Feature
 
 ### Regulation.bin
--Weapons and Spells poise damage *5<br>
+-Poise damage of Weapons and Spells *5<br>
 -All spells only take one memory slot<br>
 -Lock range *4<br>
 -Buff last until die or rest at site of grace or teleport<br>
