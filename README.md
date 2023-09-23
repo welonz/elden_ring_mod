@@ -4,8 +4,7 @@
 
 ## Feature
 
-### Regulation.bin<br>
-<br>
+### Regulation.bin
 -Weapons and Spells poise damage *5<br>
 -All spells only take one memory slot<br>
 -Lock range *4<br>
@@ -22,9 +21,8 @@
 -Summon torrent anywhere<br>
 -Summon spirits anywhere<br>
 -Max discovery<br>
-<br>
 
-### c0000.anibnd.dcx<br>
-<br>
+
+### c0000.anibnd.dcx
 -Spell cast animations speed up by 25%
 -Change basic roll into Bloodhound's Step
