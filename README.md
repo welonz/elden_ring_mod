@@ -21,7 +21,7 @@
 -Summon torrent anywhere<br>
 -Summon spirits anywhere<br>
 -Max discovery<br>
-
+<br>
 
 ### c0000.anibnd.dcx
 -Spell cast animations speed up by 25%
